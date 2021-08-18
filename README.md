@@ -28,6 +28,10 @@ This is a master thesis about creating a Next Generation Multiplayer FPS game in
 
 ![](https://github.com/jpetanjek/NG-FPS/blob/master/Documentation/GifShowcase/Buildable.gif)
 
+* Ballistics
+
+![](https://github.com/jpetanjek/NG-FPS/blob/master/Documentation/GifShowcase/Ballistics.gif)
+
 Developed with Unreal Engine 4 and Spatial OS.
 
 ![Epic Mega Grants Logo](https://raw.githubusercontent.com/jpetanjek/NG-FPS/master/Documentation/Badge/PNG/Epic_MegaGrants_Recipient_logo_horizontal.png)
