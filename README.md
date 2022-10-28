@@ -1,4 +1,10 @@
-This is a master thesis about creating a Next Generation Multiplayer FPS game in the process of being translated and produced in a video series format. Recieved a Epic Games Mega Grant.
+This is a master thesis about creating the Next Generation of Networked Games, in the process of being translated (from the original Croatian version to English) and produced in to a video series format.  
+
+Received a Epic Games Mega Grant.
+
+Notes: 
+* The public use of Spatial OS has effectively been discontinued by Improbable, therefore the project files cannot currently be executed. This page is to serve as a guide for using similar architectures.
+* There have been corrections made to the original thesis and the wiki is to serve as a final version.
 
  [Please refer to the wiki for more information.](https://github.com/jpetanjek/NG-FPS/wiki) 
  
